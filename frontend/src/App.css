@@ -1,0 +1,84 @@
+body {
+  /* padding: 20px; */
+  margin: 0;
+  font-family: "Montserrat", sans-serif;
+}
+
+section {
+  margin-bottom: 20px;
+  padding: 20px;
+  border: 1px solid #ddd;
+  /* Border to separate sections */
+  border-radius: 5px;
+  /* Optional: Add border-radius for a rounded appearance */
+}
+
+.container {
+  max-width: 800px;
+}
+
+h1 {
+  color: #007bff;
+}
+
+p {
+  font-size: 1.2em;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+  margin-bottom: 20px;
+}
+
+header.jumbotron {
+  color: #ffffff;
+  text-align: center;
+  padding: 100px 0;
+}
+
+header.jumbotron h1 {
+  font-size: 3.5rem;
+}
+
+header.jumbotron p {
+  font-size: 1.5rem;
+}
+
+section#about {
+  padding: 50px 0;
+  border: 0;
+}
+
+footer {
+  background-color: #343a40;
+  color: #ffffff;
+  padding: 20px 0;
+}
+
+h1,
+p {
+  color: black;
+}
+
+.app-img {
+  margin-left: 10rem;
+  width: 50%;
+  height: auto;
+}
+
+.navbar-collapse {
+  font-size: large;
+}
+
+.home_top {
+  padding-left: 3rem;
+  padding-right: 3rem;
+}
+
+/* .background-img {
+  background-image: url("https://picsum.photos/200/300/?blur");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+} */
